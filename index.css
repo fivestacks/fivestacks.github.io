@@ -1,0 +1,49 @@
+body {
+    background-color:black;
+}
+
+
+
+
+.Header-Text {
+    font-size: 100px;
+    font-family: 'Intro', sans-serif;
+    font-weight: 800;
+    text-transform: uppercase;
+    
+    
+    background: -webkit-linear-gradient(-86deg, #EEF85B 5%, #7AEC8D 53%, #09E5C3 91%);
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-stroke: 4px transparent;
+    color: #232d2d;
+    text-align:center;
+    margin-top:-20px;
+  }
+
+
+
+.Sub-Header-Line {
+color:white;
+    border-style:double;
+    border-color:white;
+    border-width: 4px;
+    height:5px;
+    margin-left:1px;
+    border-left-color:black;
+    border-top-color:#2d9989;
+    border-bottom-color:#3eecd4;
+}
+
+.Sub-Header-Art-1 {
+    color:white;
+    margin-top:-16px;
+}
+
+.Sub-Header-Art-2 {
+    color:white;
+    margin-top:-36px;
+    text-align:right;
+}
+
+
