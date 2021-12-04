@@ -27,23 +27,17 @@ body {
 color:white;
     border-style:double;
     border-color:white;
-    border-width: 4px;
-    height:5px;
-    margin-left:1px;
+    border-width: 5px;
+    height:8px;
     border-left-color:black;
+    border-right-color:black;
     border-top-color:#2d9989;
     border-bottom-color:#3eecd4;
 }
 
-.Sub-Header-Art-1 {
-    color:white;
-    margin-top:-16px;
+.discord {
+    margin-top:100px;
+    width:250px;
+    height:400px;
+    z-index:aboslute;
 }
-
-.Sub-Header-Art-2 {
-    color:white;
-    margin-top:-36px;
-    text-align:right;
-}
-
-
